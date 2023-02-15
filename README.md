@@ -1,5 +1,5 @@
 # cinema-recommendation-systems
-u
+
 This Python code uses the Pygame and Pygame-menu libraries to create a simple interactive menu for several movie theater chains.
 
 Libraries Used
