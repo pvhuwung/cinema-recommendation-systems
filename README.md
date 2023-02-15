@@ -1,4 +1,3 @@
-# cinema-recommendation-systems
 
 # Cinema Recommendation Systems
 
