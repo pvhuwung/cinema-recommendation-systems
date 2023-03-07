@@ -35,7 +35,7 @@ The pricing information menus display the cost of tickets for different days and
 
 ## Running the Code
 
-To run this code, ensure that the Pygame and Pygame-menu libraries are installed. Then, run the Python script. The main menu will appear and the user can navigate through the menus by clicking on the buttons. To exit the program, click the "Quit" button on the main menu.
+To run this code, ensure that the Pygame and Pygame-menu libraries are installed. Then, run the Python script. The main menu will appear and the user can navigate through the menus by clicking on the buttons. To exit the program, click the "Quit" button on the main menu. You can choose the category depends on your favour.
 
 ## Contributing
 
